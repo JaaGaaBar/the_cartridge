@@ -1,7 +1,7 @@
 ver0.01     2024:11:2
 
-clean   :   254625			
+clean      :     254625			
 
-make    :   348822
+make       :     348822
 
-support	:   250421
+support	   :     250421
